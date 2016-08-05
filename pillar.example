@@ -1,0 +1,5 @@
+mine_functions:
+  network.interfaces: []
+  pgsql_ips:
+    mine_function: network.ip_addrs
+    cidr: 172.16.0.0/24
